@@ -2,7 +2,7 @@
 Solidity smart contract for CAKE rewards
 
 
-claim - any holder can claim their rewards in CAKE
+claim (address holder) - any holder can claim their rewards in CAKE
 
 getUnpaidEarning(address holder) - function to check the balance payable
 
